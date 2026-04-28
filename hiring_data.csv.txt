@@ -1,0 +1,11 @@
+age,gender,education,experience,test_score,selected
+25,Male,Bachelor,2,70,0
+30,Female,Master,5,85,1
+28,Male,Bachelor,3,60,0
+35,Female,PhD,7,90,1
+22,Female,Bachelor,1,65,0
+40,Male,Master,10,88,1
+27,Male,Bachelor,4,75,1
+29,Female,Master,3,80,1
+31,Male,Bachelor,6,72,1
+26,Female,Bachelor,2,68,0
